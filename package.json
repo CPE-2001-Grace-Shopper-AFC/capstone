@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/CPE-2001-Grace-Shopper-AFC/capstone#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "base64-img": "^1.0.4",
     "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
